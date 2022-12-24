@@ -1,18 +1,6 @@
-
-<style>
-  .container {
-background:red;
-}
-</style>
-
-
-# Markdown heading styles {#identifier .container}
-
-
-
 # CalculatorApp_JetpackCompose
 
-<div class="container">
+<div class="container" style="display:'flex'">
   
  <h2>Dark Mode</h2>
 <img src="https://i.postimg.cc/qR0WVHHV/Calculator1.jpg"/>
